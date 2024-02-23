@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "232953214518",
+    "project_id": "news-website-9ed99",
+    "storage_bucket": "news-website-9ed99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232953214518:android:67178c37eae8e9ee2f8a97",
+        "android_client_info": {
+          "package_name": "com.example.flutter_news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232953214518-o8prpg74ioebp5gsfhcpgaq0s0a3udj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_news_app",
+            "certificate_hash": "04bb0fc2d3be6ba068a9d62ac32e07ef90711791"
+          }
+        },
+        {
+          "client_id": "232953214518-434blokr0773ao3nv6m3g5t2vim1pcea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPaiww48J655nTV1uEkD6FOlirfbLIxo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232953214518-434blokr0773ao3nv6m3g5t2vim1pcea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232953214518:android:35e81cb159c2c7652f8a97",
+        "android_client_info": {
+          "package_name": "com.example.flutter_serverless_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232953214518-434blokr0773ao3nv6m3g5t2vim1pcea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPaiww48J655nTV1uEkD6FOlirfbLIxo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232953214518-434blokr0773ao3nv6m3g5t2vim1pcea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232953214518:android:86cfa7f2bb118a892f8a97",
+        "android_client_info": {
+          "package_name": "com.gg.exq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232953214518-434blokr0773ao3nv6m3g5t2vim1pcea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPaiww48J655nTV1uEkD6FOlirfbLIxo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232953214518-434blokr0773ao3nv6m3g5t2vim1pcea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
