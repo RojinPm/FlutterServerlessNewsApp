@@ -3,8 +3,9 @@ buildscript {
     repositories {
         google()
         maven{
-            url:""
+            url "https://maven.google.com"
         }
+
         mavenCentral()
     }
 
